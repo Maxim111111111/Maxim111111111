@@ -2,7 +2,7 @@
 - 👀 I'm interested in Backend development
 - 🌱 I’m currently learning Go and databases
 - 💞️ _______________________________________
-- 📫 How to reach me: ms.programmer0gmail.com
+- 📫 How to reach me: ms.programmer0@gmail.com
 - 😄 Pronouns: He | Him
 - ⚡ _______________________________________
 
