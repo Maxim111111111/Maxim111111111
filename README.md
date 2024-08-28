@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Max
+- 👀 I'm interested in Backend development
+- 🌱 I’m currently learning Go and databases
+- 💞️ _______________________________________
+- 📫 How to reach me: ms.programmer0gmail.com
+- 😄 Pronouns: He | Him
+- ⚡ _______________________________________
+
+<!---
+Maxim111111111/Maxim111111111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
